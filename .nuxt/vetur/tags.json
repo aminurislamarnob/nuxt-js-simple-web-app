@@ -1,0 +1,38 @@
+{
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Hero": {
+    "description": "Auto imported from components/Hero.vue"
+  },
+  "LargeCard": {
+    "description": "Auto imported from components/LargeCard.vue"
+  },
+  "LargeCardDisplay": {
+    "description": "Auto imported from components/LargeCardDisplay.vue"
+  },
+  "MainNav": {
+    "description": "Auto imported from components/MainNav.vue"
+  },
+  "MyItem": {
+    "description": "Auto imported from components/MyItem.vue"
+  },
+  "PageNotFound": {
+    "description": "Auto imported from components/PageNotFound.vue"
+  },
+  "RentModal": {
+    "description": "Auto imported from components/RentModal.vue"
+  },
+  "ReviewCard": {
+    "description": "Auto imported from components/ReviewCard.vue"
+  },
+  "Reviews": {
+    "description": "Auto imported from components/Reviews.vue"
+  },
+  "SmallCard": {
+    "description": "Auto imported from components/SmallCard.vue"
+  },
+  "SmallCardsDisplay": {
+    "description": "Auto imported from components/SmallCardsDisplay.vue"
+  }
+}

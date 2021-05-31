@@ -1,0 +1,30 @@
+[
+  {
+    "name": "my-items",
+    "path": "/my-items",
+    "component": "/Volumes/Projects/Arnob/endless/vue-js/nuxt-js/nuxt-js-simple-web-app/pages/my-items.vue",
+    "chunkName": "pages/my-items",
+    "_name": "_9d6250e2"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "/Volumes/Projects/Arnob/endless/vue-js/nuxt-js/nuxt-js-simple-web-app/pages/products/index.vue",
+    "chunkName": "pages/products/index",
+    "_name": "_95e1a4d2"
+  },
+  {
+    "name": "products-id",
+    "path": "/products/:id",
+    "component": "/Volumes/Projects/Arnob/endless/vue-js/nuxt-js/nuxt-js-simple-web-app/pages/products/_id.vue",
+    "chunkName": "pages/products/_id",
+    "_name": "_18e9a9bf"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Volumes/Projects/Arnob/endless/vue-js/nuxt-js/nuxt-js-simple-web-app/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3ee40552"
+  }
+]
